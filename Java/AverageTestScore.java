@@ -3,7 +3,7 @@ Project Name: AverageTestScore
 Name: Tristen Stegall
 Date: 1/31/2024
 Description: Program 2-13, page 59 - The Average Test Score
-Language: Rust
+Language: Java
 Editor: OnlineGDB
 */
 public class Main
