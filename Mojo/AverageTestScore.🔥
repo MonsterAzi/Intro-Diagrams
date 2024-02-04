@@ -7,10 +7,9 @@ Language: Mojo
 Editor: OnlineGDB
 '''
 fn main():
-    test1 = 88.0
-    test2 = 92.5
-    test3 = 97.0
-    average: float
+    let test1 = 88.0
+    let test2 = 92.5
+    let test3 = 97.0
     
-    average = (test1 + test2 + test3) / 3.0
+    let average: FloatLiteral = (test1 + test2 + test3) / 3.0
     print("Your average test score is", average)
