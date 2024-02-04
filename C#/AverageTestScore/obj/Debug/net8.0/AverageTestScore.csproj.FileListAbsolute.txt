@@ -1,0 +1,15 @@
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/bin/Debug/net8.0/AverageTestScore
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/bin/Debug/net8.0/AverageTestScore.deps.json
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/bin/Debug/net8.0/AverageTestScore.runtimeconfig.json
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/bin/Debug/net8.0/AverageTestScore.dll
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/bin/Debug/net8.0/AverageTestScore.pdb
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.GeneratedMSBuildEditorConfig.editorconfig
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.AssemblyInfoInputs.cache
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.AssemblyInfo.cs
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.csproj.CoreCompileInputs.cache
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.sourcelink.json
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.dll
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/refint/AverageTestScore.dll
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.pdb
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/AverageTestScore.genruntimeconfig.cache
+/home/azazelle/projects/Intro-Diagrams/C#/AverageTestScore/obj/Debug/net8.0/ref/AverageTestScore.dll

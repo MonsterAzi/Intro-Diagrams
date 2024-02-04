@@ -1,0 +1,15 @@
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/bin/Debug/net8.0/assignment0_coding
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/bin/Debug/net8.0/assignment0_coding.deps.json
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/bin/Debug/net8.0/assignment0_coding.runtimeconfig.json
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/bin/Debug/net8.0/assignment0_coding.dll
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/bin/Debug/net8.0/assignment0_coding.pdb
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.GeneratedMSBuildEditorConfig.editorconfig
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.AssemblyInfoInputs.cache
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.AssemblyInfo.cs
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.csproj.CoreCompileInputs.cache
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.sourcelink.json
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.dll
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/refint/assignment0_coding.dll
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.pdb
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/assignment0_coding.genruntimeconfig.cache
+/home/azazelle/projects/Intro-Diagrams/C#/assignment0_coding/obj/Debug/net8.0/ref/assignment0_coding.dll

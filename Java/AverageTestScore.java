@@ -6,7 +6,7 @@ Description: Program 2-13, page 59 - The Average Test Score
 Language: Java
 Editor: OnlineGDB
 */
-public class Main
+public class AverageTestScore
 {
 	public static void main(String[] args) {
 	    double test1, test2, test3, average;

@@ -6,7 +6,7 @@ Description: This program implements the algorithm from Lab 0 Part 1 Logic. It p
 Language: Java
 Editor: OnlineGDB
 */
-public class Main
+public class assignment0_coding
 {
 	public static void main(String[] args) {
 		System.out.println("Tristen Stegall");
