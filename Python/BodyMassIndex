@@ -1,0 +1,45 @@
+'''
+Project Name: AverageMassIndex
+Name: Tristen Stegall
+Date: 2/26/2024
+Description: Chapter 3, Programming Exercise 6, page 154 - Body Mass Index
+Language: Python
+Editor: OnlineGDB
+'''
+
+# Global constants and Variables
+BODY_MASS_MULTIPLIER = 703.0
+weight = 0.0
+height = 0.0
+
+def main():
+    
+    # Call getInput
+    getInput()
+    
+    # Call getBMI
+    showBMI()
+    
+def getInput():
+    
+    # Call for weight input
+    global weight
+    weight = float(input("Enter the weight in pounds: "))
+    
+    # Call for height input
+    global height
+    height = float(input("Enter the height in inches: "))
+    
+def showBMI():
+    
+    # Declare BMI
+    bmi = 0.0
+    
+    # Calc BMI
+    bmi = weight * BODY_MASS_MULTIPLIER / (height * height)
+    
+    # Display BMI
+    print("\nBMI: ", bmi) # \n is a special character that creates a new line
+    
+# Call main
+main()
